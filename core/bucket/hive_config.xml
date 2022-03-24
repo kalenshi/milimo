@@ -1,0 +1,19 @@
+<configuration version="34">
+    <property>
+                <name>fs.s3a.bucket.test_bucket.access.key</name>
+                <value>kalksgakggalkaffgfg</value>
+            </property>
+    <property>
+                <name>fs.s3a.bucket.test_bucket.secret.key</name>
+                <value>hgdhggdhddhhhhhh</value>
+            </property>
+    <property>
+                <name>fs.s3a.test_bucket.endpoint</name>
+                <value>bi_inteligence</value>
+            </property>
+    <property>
+                <name>fs.s3a.test_bucket.path.style.access</name>
+                <value>false</value>
+
+    </property>
+</configuration>
